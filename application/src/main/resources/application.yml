@@ -2,6 +2,6 @@ server:
   port: 8082
 spring:
   profiles:
-    include: core
+    include: domain
 
 
