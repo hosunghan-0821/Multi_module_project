@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url : jdbc:mysql://springboot-db.cytelnukvniu.ap-northeast-2.rds.amazonaws.com/multi_module
+    username : hosung
+    password : ghtjd114
+  jpa:
+    hibernate:
+      ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+  graphql:
+    schema:
+      printer:
+        enabled: true
