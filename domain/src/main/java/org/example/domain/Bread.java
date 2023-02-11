@@ -25,8 +25,6 @@ public class Bread {
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn (name = "category",nullable = false)
     private Category category;
-    
-    private String test
 
 
 
