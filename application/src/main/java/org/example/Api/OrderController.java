@@ -14,7 +14,7 @@ public class OrderController {
 
 
     public void test(){
-
+        test1234();
     }
 
     public void  test1234(){
