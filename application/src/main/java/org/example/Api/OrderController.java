@@ -11,4 +11,8 @@ public class OrderController {
     public String testApi(){
         return "hello";
     }
+
+    public void test(){
+
+    }
 }
