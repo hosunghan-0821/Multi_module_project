@@ -23,6 +23,7 @@ public class OrderController {
 
     public  void test12345(){
 
+        int a = 0 ;
     }
 
 
