@@ -8,8 +8,16 @@ import org.springframework.web.bind.annotation.RestController;
 public class BreadController {
 
 
+
     public void test12345(){
+<<<<<<< HEAD
         test();
+=======
+
+    public void etst(){
+
+
+>>>>>>> 5efb7e1 (test commit 1)
     }
 
     public void testDanger(){
