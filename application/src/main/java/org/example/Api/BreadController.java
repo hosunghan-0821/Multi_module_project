@@ -8,7 +8,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class BreadController {
 
 
+
     public void testDanger(){
+
+    }
+
+    public void test(){
 
     }
 }
