@@ -11,6 +11,11 @@ public class BreadController {
     public void test12345(){
 
     }
+
+    public void testDanger(){
+
+    }
+
     public void test(){
 
     }
